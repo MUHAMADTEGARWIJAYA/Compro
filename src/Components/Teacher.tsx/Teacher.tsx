@@ -16,7 +16,7 @@ const Teacher : React.FC = () => {
                 </div>
                 <div className="w-full h-screen flex items-center justify-center ">
                   
-                    <img src="/public/2.png"  className={` w-full h-[470px] object-cover `}/>
+                    <img src="/2.png"  className={` w-full h-[470px] object-cover `}/>
                  
                 </div>
                 </div>

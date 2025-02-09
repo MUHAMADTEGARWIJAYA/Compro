@@ -17,7 +17,7 @@ const Header: React.FC = () => {
         </div>
         <div className="w-full  flex justify-center px-10 ">
             <div >
-            <img src="/public/fix.png"  className={`w-full h-[470px] xl:h-screen  object-cover`}/>
+            <img src="/fix.png"  className={`w-full h-[470px] xl:h-screen  object-cover`}/>
             </div>
         </div>
         </div>

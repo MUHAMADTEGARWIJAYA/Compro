@@ -27,7 +27,7 @@ const [isOpen, setIsOpen] = React.useState(false)
 
             {/* Logo */}
             <div className="flex items-center gap-2">
-               <img src="/public/vite.svg" className="h-8 w-8" alt="" /> 
+               <img src="/vite.svg" className="h-8 w-8" alt="" /> 
                <p>Lorem</p>
             </div>
             {/* Navigation */}

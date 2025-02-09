@@ -19,7 +19,7 @@ export const products: Product[] = [
     name: "Web Design & Development",
     tipe: "Web design",
     class: "25 clasess",
-    image: "/public/fix.png", // ✅ Perbaikan path
+    image: "/fix.png", // ✅ Perbaikan path
     rating: 5,
   },
   {
