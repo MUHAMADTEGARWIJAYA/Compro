@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.bg-primary-gradient {
+  background: transparent;
+  transition: background 0.8s ease-in-out;
+}
+
+.bg-primary-gradient:hover {
+  background: linear-gradient(153deg, rgba(123,15,150,1) 0%, rgba(200,60,240,1) 48%, rgba(245,241,199,1) 100%);
+}
+
+.bg-primary{
+  background: linear-gradient(153deg, rgba(123,15,150,1) 0%, rgba(200,60,240,1) 48%, rgba(245,241,199,1) 100%);
+}
+
+.bg-secondary{
+background: rgb(255,251,209);
+background: linear-gradient(153deg, rgba(255,251,209,1) 0%, rgba(217,76,255,1) 48%, rgba(255,251,209,1) 100%);
+}
