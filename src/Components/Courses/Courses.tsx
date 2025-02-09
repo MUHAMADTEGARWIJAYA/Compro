@@ -36,11 +36,11 @@ import { IoIosSearch } from "react-icons/io";
                         <h1 className={`text-3xl font-bold`}> <span className="text-[#D257F9]">Benefit</span> From Our Online Learning</h1>
                         <div className="flex gap-7">
                         <div className="flex gap-10 flex-col">
-                            <img src="/public/graduation-cap-svgrepo-com.svg" alt="" className="w-12 h-12 rounded-full bg-[#D257F9] object-cover py-2 px-2" />
-                            <img src="/public/book-open-svgrepo-com (1).svg" alt="" className="w-12 h-12 rounded-full bg-[#FF809C] object-cover py-2 px-2"/>
-                            <img src="/public/person-svgrepo-com.svg" alt="" className="w-12 h-12 rounded-full bg-[#D257F9] object-cover py-2 px-2" />
+                            <img src="/graduation-cap-svgrepo-com.svg" alt="" className="w-12 h-12 rounded-full bg-[#D257F9] object-cover py-2 px-2" />
+                            <img src="/book-open-svgrepo-com (1).svg" alt="" className="w-12 h-12 rounded-full bg-[#FF809C] object-cover py-2 px-2"/>
+                            <img src="/person-svgrepo-com.svg" alt="" className="w-12 h-12 rounded-full bg-[#D257F9] object-cover py-2 px-2" />
                             <div className="w-12 h-12 rounded-full bg-[#FF809C] object-cover py-2 px-2">
-                            <img src="/public/play-1003-svgrepo-com.svg" alt="" className=" bg-[#FF809C] object-center py-2 px-2" />
+                            <img src="/play-1003-svgrepo-com.svg" alt="" className=" bg-[#FF809C] object-center py-2 px-2" />
                             </div>
                         </div>
 
