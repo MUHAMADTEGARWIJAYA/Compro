@@ -21,7 +21,7 @@ const ProductsPage: React.FC = () => {
 
                             {/* tipe & Rate */}
                             <div className="flex justify-between mt-4 text-center items-center">
-                                <p className="bg-[#d357f92f] w-28 text-black rounded-md"><span className="text-[#d357f9]">●</span> {product.tipe}</p>
+                                <p className="bg-[#d357f92f] w-36 text-black rounded-md"><span className="text-[#d357f9]">●</span> {product.tipe}</p>
                                 <p className="bg-[#d357f9] w-16 text-white rounded-md"> <span>⭐</span>{product.rating}</p>
                             </div>
 
