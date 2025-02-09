@@ -26,7 +26,7 @@ import { IoIosSearch } from "react-icons/io";
                 {/* Image Right */}
                 <div className="w-100 xl:w-160 h-fit flex justify-center  items-center px-4  ">
                     <div >
-                    <img src="/Krem Hijau Minimalis Best Moment Foto Kolase (1).png"  className={`w-130 bg-black   object-cover`}/>
+                    <img src="/Krem Hijau Minimalis Best Moment Foto Kolase (1).png"  className={`w-130    object-cover`}/>
                     </div>
                 </div>
                 
