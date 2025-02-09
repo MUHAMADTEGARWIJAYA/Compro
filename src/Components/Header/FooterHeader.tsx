@@ -6,11 +6,11 @@ const FooterHeader: React.FC = () => {
             <div className="flex w-full max-w-6xl overflow-x-auto xl:space-x-12  xl:justify-center scrollbar-hide ">
                 {/* Pertama */}
                 <div className="snap-center flex-shrink-0">
-                    <img src="/public/logotype-white.svg" className="h-24 w-44" alt="" />
+                    <img src="/logotype-white.svg" className="h-24 w-44" alt="" />
                 </div>
                 {/* Kedua */}
                 <div className="snap-center flex-shrink-0">
-                    <img src="/public/apple-pay-svgrepo-com.svg" className="h-24 w-44" alt="" />
+                    <img src="/apple-pay-svgrepo-com.svg" className="h-24 w-44" alt="" />
                 </div>
                 {/* Ketiga */}
                 <div className="snap-center flex-shrink-0">
@@ -18,11 +18,11 @@ const FooterHeader: React.FC = () => {
                 </div>
                 {/* Keempat */}
                 <div className="snap-center ml-10 xl:ml-0 flex-shrink-0">
-                    <img src="/public/micro.svg" className="h-24 w-44 object-cover" alt="" />
+                    <img src="/micro.svg" className="h-24 w-44 object-cover" alt="" />
                 </div>
                 {/* Kelima */}
                 <div className="snap-center ml-10 xl:ml-0 flex-shrink-0">
-                    <img src="/public/cloudacademy-svgrepo-com.svg" className="h-24 w-54 object-cover" alt="" />
+                    <img src="/cloudacademy-svgrepo-com.svg" className="h-24 w-54 object-cover" alt="" />
                 </div>
             </div>
         </div>
